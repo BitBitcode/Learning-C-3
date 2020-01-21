@@ -8,7 +8,7 @@
     + [（1）基础知识](https://github.com/BitBitcode/Learning-C-1)；
     + [（2）核心技术](https://github.com/BitBitcode/Learning-C-2)；
     + [（3）高级应用](https://github.com/BitBitcode/Learning-C-3)；
-  + “基础知识”部分包括 第10章 ~ 第13章 的内容：位运算、预处理、文件、图形图像等
+  + “高级应用” 部分包括 第10章 ~ 第13章 的内容：位运算、预处理、文件、图形图像等
   + 其中一些是书中的例子，一些是自己原创的程序。原创代码在 “更多信息” 中列出了清单
   + 代码由 Visual Studio 2019 生成，下载后可以直接导入使用
 
@@ -23,12 +23,9 @@
     + 书名：《C语言从入门到精通》
     + 出版社：清华大学出版社
     + 官方网站：[明日科技图书](https://www.mingribook.com)
-      + 如果链接打不开请手动输入：www.mingribook.com
-      
+        
   + **关于作者**
-    + 个人网页：[BitBitcode的个人主页](https://bitbitcode.github.io/)
-      + 欢迎访问（＾-＾）
-      + 如果链接打不开请手动输入：https://bitbitcode.github.io/
+    + 个人网页：[BitBitcode的个人主页](https://bitbitcode.github.io/)，欢迎访问（＾-＾）
     + 个人邮箱：smilewwc@qq.com
 
   + **原创代码清单**
